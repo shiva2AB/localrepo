@@ -1,1 +1,2 @@
-#this is my local repo
+# clear
+this is my local repo
